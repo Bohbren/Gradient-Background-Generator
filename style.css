@@ -1,0 +1,14 @@
+body {
+    background: linear-gradient(to right,#FC466B, #3F5EFB);
+}
+
+h1 {
+    color: rgb(0, 0, 0);
+    font-family: 'Permanent Marker', cursive;
+    font-size: 45px;
+    text-shadow: 2px 2px rgb(13, 104, 121);
+}
+
+h3 {
+    font-family: 'Permanent Marker', cursive;
+}
